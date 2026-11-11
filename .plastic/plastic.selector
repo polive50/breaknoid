@@ -1,0 +1,4 @@
+repository "BreakNoid@Pom_Gaming@cloud"
+  path "/"
+    br "/main"
+    co "/main"
